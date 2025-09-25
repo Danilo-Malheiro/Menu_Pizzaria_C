@@ -61,20 +61,20 @@ O usuário pode escolher pizzas de diferentes tamanhos e sabores, além de bebid
 Valor total: R$ 52.80
 Obrigado pela preferência!
 ```
-💡 Melhorias futuras
+## 💡 Melhorias futuras
+- 🎁 Implementar descontos em combos.  
+- ✏️ Permitir edição/remoção de itens do pedido.  
+- 🗂️ Criar um sistema de cadastro de clientes.  
+- 📄 Exportar o resumo do pedido para um arquivo `.txt`.  
 
-Implementar descontos em combos.
+---
 
-Permitir edição/remoção de itens do pedido.
+## 🌐 Teste online
+Você pode executar o código direto no navegador aqui:  
+[Executar Pizzaria em C](https://onlinegdb.com/8ZVfzBwXzk)
 
-Criar um sistema de cadastro de clientes. 
+---
 
-Exportar o resumo do pedido para um arquivo .txt. 
-
-
-Você pode testar o código online aqui: [Executar Pizzaria em C](https://onlinegdb.com/8ZVfzBwXzk) 
-
-📌 Autor
-
-Feito por Danilo Malheiro
+## 📌 Autor
+Feito por **Danilo Malheiro**  
 👉 [LinkedIn](https://www.linkedin.com/in/danilo-malheiro-658031332/)
