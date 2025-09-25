@@ -60,7 +60,7 @@ O usuário pode escolher pizzas de diferentes tamanhos e sabores, além de bebid
 --------------------------
 Valor total: R$ 52.80
 Obrigado pela preferência!
-
+```
 💡 Melhorias futuras
 
 Implementar descontos em combos.
@@ -69,10 +69,9 @@ Permitir edição/remoção de itens do pedido.
 
 Criar um sistema de cadastro de clientes.
 
-Exportar o resumo do pedido para um arquivo .txt.
+Exportar o resumo do pedido para um arquivo .txt. 
 
 📌 Autor
 
-Feito com 💻 e ☕ por [Seu Nome]
-👉 LinkedIn
- | GitHub
+Feito por Danilo Malheiro
+👉 [LinkedIn](www.linkedin.com/in/danilomalheiro)
