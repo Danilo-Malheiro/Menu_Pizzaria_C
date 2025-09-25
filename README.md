@@ -74,4 +74,4 @@ Exportar o resumo do pedido para um arquivo .txt.
 📌 Autor
 
 Feito por Danilo Malheiro
-👉 [LinkedIn](www.linkedin.com/in/danilomalheiro)
+👉 [LinkedIn](https://www.linkedin.com/in/danilo-malheiro-658031332/)
