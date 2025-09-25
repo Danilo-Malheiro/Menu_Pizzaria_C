@@ -71,8 +71,10 @@ Criar um sistema de cadastro de clientes.
 
 Exportar o resumo do pedido para um arquivo .txt. 
 
+
 Você pode testar o código online aqui: [Executar Pizzaria em C](https://onlinegdb.com/8ZVfzBwXzk) 
 
 📌 Autor
+
 Feito por Danilo Malheiro
 👉 [LinkedIn](https://www.linkedin.com/in/danilo-malheiro-658031332/)
