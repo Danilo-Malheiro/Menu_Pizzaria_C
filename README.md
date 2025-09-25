@@ -44,8 +44,32 @@ O usuário pode escolher pizzas de diferentes tamanhos e sabores, além de bebid
 
 ---
 
-## 🚀 Como executar o projeto
+🎮 Exemplo de uso
+-------Menu Pizzaria-------
+1- Pizza Grande (16 pedaços)
+2- Pizza Média (8 pedaços)
+3- Pizza Pequena (4 pedaços)
+4- Bebidas
+---------------------------
 
-1. Clone o repositório:  
+
+Resumo do pedido no final:
+
+---- Resumo do Pedido ----
+1. Pizza Média de Calabresa - R$ 37.90
+2. Coca Cola 2L - R$ 14.90
+--------------------------
+Valor total: R$ 52.80
+Obrigado pela preferência!
+
+💡 Melhorias futuras
+
+Implementar descontos em combos.
+
+Permitir edição/remoção de itens do pedido.
+
+Criar um sistema de cadastro de clientes.
+
+Exportar o resumo do pedido para um arquivo .txt.
    ```bash
    git clone https://github.com/seu-usuario/pizzaria-c.git
