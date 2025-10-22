@@ -61,6 +61,14 @@ O usuário pode escolher pizzas de diferentes tamanhos e sabores, além de bebid
 Valor total: R$ 52.80
 Obrigado pela preferência!
 ```
+## 🖼️ Demonstração (prints do terminal)
+
+### Menu principal
+![Menu principal](Imagens/Menu.png)
+
+### Resumo do pedido
+![Resumo do pedido](Imagens/Resumo_Pedido.png) 
+
 ## 💡 Melhorias futuras
 - 🎁 Implementar descontos em combos.  
 - ✏️ Permitir edição/remoção de itens do pedido.  
