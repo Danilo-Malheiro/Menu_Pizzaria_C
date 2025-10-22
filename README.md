@@ -69,6 +69,10 @@ Obrigado pela preferência!
 ### Resumo do pedido
 ![Resumo do pedido](Imagens/Resumo_Pedido.png) 
 
+## 🎥 Demonstração em vídeo
+Assista à explicação completa do projeto no meu LinkedIn:  
+[![LinkedIn](https://img.shields.io/badge/Assista%20no-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/posts/danilomalheiro_c-programaaexaeto-linguagemc-activity-7379648989153087488-tUBS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOnXWQByj8ti76jmrxtKPek7KLI53N59ao)
+
 ## 💡 Melhorias futuras
 - 🎁 Implementar descontos em combos.  
 - ✏️ Permitir edição/remoção de itens do pedido.  
