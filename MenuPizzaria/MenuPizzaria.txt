@@ -1,0 +1,8 @@
+---- Resumo do Pedido ----
+1. Pizza Grande de Calabresa - R$ 74,90
+2. Pizza Média de Muçarela - R$ 34,90
+3. Pizza Pequena de Brigadeiro - R$ 27,90
+4. Coca Cola 2L - R$ 14,90
+--------------------------
+Valor total: R$ 152,60
+Obrigado pela preferência!
