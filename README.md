@@ -20,7 +20,7 @@ O usuário pode escolher pizzas de diferentes tamanhos e sabores, além de bebid
 - Inclui opções de bebidas em 1L e 2L.  
 - Armazena os itens escolhidos em um vetor.  
 - Mostra um **resumo do pedido** com todos os itens e o preço total.  
-- 💾 **Salva automaticamente o pedido em um arquivo `pedidos.txt`** dentro da pasta do projeto.
+- **Salva automaticamente o pedido em um arquivo `.txt`** dentro da pasta do projeto.
 
 ---
 
@@ -35,7 +35,7 @@ O usuário pode escolher pizzas de diferentes tamanhos e sabores, além de bebid
 - `<stdlib.h>` → funções do sistema (`system`, `pause`)  
 - `<locale.h>` → configuração de idioma (acentos em português)  
 - `<string.h>` → manipulação de strings (`strcpy`)  
-
+- `<time.h>`   → obter a data e o horário atual (`time()`, `localtime()`, `struct tm`)
 ---
 
 ## 📚 Conceitos de programação aplicados
@@ -63,7 +63,8 @@ O usuário pode escolher pizzas de diferentes tamanhos e sabores, além de bebid
 --------------------------
 Valor total: R$ 52.80
 Obrigado pela preferência!
-Pedido salvo em 'MenuPizzaria.txt'
+Pedido salvo no arquivo 'Pedido_20251113_103232.txt'!
+Pressione qualquer tecla para continuar. . .
 ```
 ## 🖼️ Demonstração (prints do terminal)
 
