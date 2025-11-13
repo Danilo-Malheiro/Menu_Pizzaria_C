@@ -21,7 +21,7 @@ O sistema também **salva automaticamente cada pedido em um arquivo `.txt`** —
 - Armazena os itens escolhidos em um vetor.  
 - Mostra um **resumo do pedido** com todos os itens e o preço total.  
 - **Salva automaticamente o pedido em um arquivo `.txt`** dentro da pasta do projeto.
-- O nome do arquivo é gerado **com base na data e hora do pedido**, garantindo que cada arquivo seja único.
+-- O nome do arquivo é gerado **com base na data e hora do pedido**, garantindo que cada arquivo seja único.
 ---
 
 ## 🛠️ Tecnologias utilizadas
