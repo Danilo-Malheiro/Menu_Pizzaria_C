@@ -9,7 +9,7 @@
 
 ## 📖 Sobre o projeto
 Este projeto é um sistema simples de **pedidos de pizzaria** desenvolvido em **linguagem C**.  
-O usuário pode escolher pizzas de diferentes tamanhos e sabores, além de bebidas, e no final recebe um resumo completo do pedido com o valor total.  
+O usuário pode escolher pizzas de diferentes tamanhos e sabores, além de bebidas, e no final recebe um **resumo completo do pedido com o valor total**, que agora também é **salvo automaticamente em um arquivo `.txt`** para registro.
 
 ---
 
@@ -20,16 +20,18 @@ O usuário pode escolher pizzas de diferentes tamanhos e sabores, além de bebid
 - Inclui opções de bebidas em 1L e 2L.  
 - Armazena os itens escolhidos em um vetor.  
 - Mostra um **resumo do pedido** com todos os itens e o preço total.  
+- 💾 **Salva automaticamente o pedido em um arquivo `pedidos.txt`** dentro da pasta do projeto.
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 - **C (Linguagem de Programação)**  
 - Estruturas de repetição e condicionais  
-- Vetores e manipulação de strings  
+- Vetores e manipulação de strings
+- - Manipulação de arquivos com `fprintf()` e `fopen()`  
 
 **Bibliotecas utilizadas:**  
-- `<stdio.h>` → funções de entrada e saída (`scanf`, `printf`)  
+- `<stdio.h>` → entrada, saída e manipulação de arquivos (`scanf`, `printf`, `fprintf`, `fopen`) 
 - `<stdlib.h>` → funções do sistema (`system`, `pause`)  
 - `<locale.h>` → configuração de idioma (acentos em português)  
 - `<string.h>` → manipulação de strings (`strcpy`)  
@@ -41,6 +43,7 @@ O usuário pode escolher pizzas de diferentes tamanhos e sabores, além de bebid
 - Estrutura de repetição **do...while** para manter o menu ativo.  
 - Manipulação de vetores para armazenar pedidos e preços.  
 - Construção de um **menu interativo** no terminal.  
+- Escrita de dados em **arquivos externos (`.txt`)**.
 
 ---
 
@@ -60,6 +63,7 @@ O usuário pode escolher pizzas de diferentes tamanhos e sabores, além de bebid
 --------------------------
 Valor total: R$ 52.80
 Obrigado pela preferência!
+Pedido salvo em 'MenuPizzaria.txt'
 ```
 ## 🖼️ Demonstração (prints do terminal)
 
