@@ -84,12 +84,15 @@ Pressione qualquer tecla para continuar. . .
 ## 🌐 Teste online
 Você pode executar o código direto no navegador aqui:  
 [Executar Pizzaria em C](https://onlinegdb.com/8ZVfzBwXzk)
+⚠️ Observação: A versão disponível no navegador não salva os pedidos em arquivos .txt, pois o ambiente online não permite manipulação de arquivos locais.
+Essa funcionalidade está disponível apenas na versão completa do projeto, executada localmente no computador.
 
 ---
 
 ## 🎥 Demonstração em vídeo
 Assista à explicação completa do projeto no meu LinkedIn:  
 [![LinkedIn](https://img.shields.io/badge/Assista%20no-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/posts/danilomalheiro_c-programaaexaeto-linguagemc-activity-7379648989153087488-tUBS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOnXWQByj8ti76jmrxtKPek7KLI53N59ao)
+⚠️ Nota: O vídeo demonstra uma versão anterior do projeto, gravada antes da implementação da função de salvar pedidos em arquivos .txt.
 
 ## 📌 Autor
 Feito por **Danilo Malheiro**  
