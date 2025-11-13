@@ -28,7 +28,7 @@ O usuário pode escolher pizzas de diferentes tamanhos e sabores, além de bebid
 - **C (Linguagem de Programação)**  
 - Estruturas de repetição e condicionais  
 - Vetores e manipulação de strings
-- - Manipulação de arquivos com `fprintf()` e `fopen()`  
+- Manipulação de arquivos com `fprintf()` e `fopen()`  
 
 **Bibliotecas utilizadas:**  
 - `<stdio.h>` → entrada, saída e manipulação de arquivos (`scanf`, `printf`, `fprintf`, `fopen`) 
