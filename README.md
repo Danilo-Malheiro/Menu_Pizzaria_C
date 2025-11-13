@@ -76,8 +76,7 @@ Pedido salvo em 'MenuPizzaria.txt'
 ## 💡 Melhorias futuras
 - 🎁 Implementar descontos em combos.  
 - ✏️ Permitir edição/remoção de itens do pedido.  
-- 🗂️ Criar um sistema de cadastro de clientes.  
-- 📄 Exportar o resumo do pedido para um arquivo `.txt`.  
+- 🗂️ Criar um sistema de cadastro de clientes.   
 
 ---
 
