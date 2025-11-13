@@ -9,8 +9,7 @@
 
 ## 📖 Sobre o projeto
 Este projeto é um sistema simples de **pedidos de pizzaria** desenvolvido em **linguagem C**.  
-O usuário pode escolher pizzas de diferentes tamanhos e sabores, além de bebidas, e no final recebe um **resumo completo do pedido com o valor total**, que agora também é **salvo automaticamente em um arquivo `.txt`** para registro.
-
+O usuário pode escolher pizzas de diferentes tamanhos e sabores, além de bebidas, e no final recebe um **resumo completo do pedido com o valor total**, O sistema também **salva automaticamente cada pedido em um arquivo `.txt`** — o nome do arquivo é gerado **com base na data e no horário atual**, garantindo que cada pedido seja armazenado em um arquivo único, sem sobrescrever os anteriores.
 ---
 
 ## 📋 Funcionalidades
@@ -21,7 +20,7 @@ O usuário pode escolher pizzas de diferentes tamanhos e sabores, além de bebid
 - Armazena os itens escolhidos em um vetor.  
 - Mostra um **resumo do pedido** com todos os itens e o preço total.  
 - **Salva automaticamente o pedido em um arquivo `.txt`** dentro da pasta do projeto.
-
+- O nome do arquivo é gerado **com base na data e hora do pedido**, garantindo que cada arquivo seja único.
 ---
 
 ## 🛠️ Tecnologias utilizadas
